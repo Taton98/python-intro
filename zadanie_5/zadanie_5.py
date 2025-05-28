@@ -28,7 +28,7 @@ for ent in doc.ents:
 print("\n=== TextBlob ===")
 
 # Przykładowe zdanie po polsku
-blob = TextBlob("Sometimes i have to give up.")
+blob = TextBlob("Czasami sobie myślę że mam dosyć.")
 
 # Analiza sentymentu – określenie, czy zdanie jest pozytywne, negatywne czy neutralne
 print("\nAnaliza sentymentu:")
